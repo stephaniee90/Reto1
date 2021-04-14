@@ -1,0 +1,106 @@
+body{
+
+    background-color: black;
+
+}
+
+
+.nav{
+background-color: blue;
+list-style: none;
+width: 100vw;
+
+
+}
+.nav-logo{
+
+    font-family: 'Times New Roman', Times, serif;
+    float: left;
+    width: 30%;
+
+
+}
+.nav-pagina{
+
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 65%;
+
+}
+
+.nav li{
+display: inline-block;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 2rem;;
+    margin-left: 2%;
+    text-align: right;
+    color: greenyellow;
+    }
+#logo{
+    text-align: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 3rem;
+    font-style: normal;
+    color: greenyellow;
+    }    
+
+.cuerpo{
+  
+display:flex ;
+background-color: black;
+width: 100%;
+height:100% ;    }
+
+    #contenido{
+    text-align: right;
+    height:100%;
+    height: 80;
+    margin: 0px;
+    padding-left: 300px;
+    padding-right: 0px;
+    display: flex;
+    
+        }
+    
+    #one{
+    
+        padding-top: 30px;
+        margin: 1rem;        
+    }
+    #two{
+        padding-top: 30px;
+        margin: 1rem;
+    }  
+    #tree{
+        padding-top: 30px;
+        margin: 1rem;
+    }
+    #four{
+    padding-top: 30px;
+    margin: 1rem;
+    }
+    .box-left{
+        text-align: left;
+        width: 30%;
+        height:100% ; 
+
+    }
+
+
+    
+    .pie{
+
+       background-color: honeydew;
+       list-style: none;
+       width: 100;
+       height: 100%;
+       text-align: center;
+
+    }
+.pie li{
+display: inline-block;
+font-size: 3rem;
+
+
+}
